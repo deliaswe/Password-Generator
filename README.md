@@ -11,11 +11,11 @@
 - Add event listener to generate button
 
 ## Installation
-https://deliaswe.github.io/portfolio-project/
+https://deliaswe.github.io/Password-Generator/
 
 ## Usage
 
-![screen shot](./assets/images/)
+![screen shot](./assets/images/screencapture-deliaswe-github-io-Password-Generator-2023-04-23-11_57_34.png)
 
 ## Credits
 N/A
