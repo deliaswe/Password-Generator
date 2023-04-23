@@ -14,7 +14,8 @@
 https://deliaswe.github.io/Password-Generator/
 
 ## Usage
-![screen shot](./assests/images/screencapture-deliaswe-github-io-Password-Generator-2023-04-23-11_57_34.png)
+
+![screen shot](./assets/images/screencapture-deliaswe-github-io-Password-Generator-2023-04-23-11_57_34.png)
 
 ## Credits
 N/A
